@@ -37,7 +37,7 @@ Mapper:
 - key = A B  
 - value = B C D  
   
-Reducer:
+Reducer:  
 1.) For each key receive a value list containing friends list  
 2.) Split each list and store each friend from the list in friendlist  
 3.) For each friend in the list check if the friend is in the friendset  
